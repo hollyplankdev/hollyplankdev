@@ -7,7 +7,7 @@ Hey, I'm Holly Plank - a Software Developer passionate for backend engineering a
 |  |  |
 :-:|:-:
 |  [Hello World API](https://github.com/hollyplankdev/hello-world-api-ts) | [Message of the Day API](https://github.com/hollyplankdev/motd-api-ts) |
-| ![](media/hello-world-project-scaled.png) | ![](media/motd-project-scaled.png) |
+| [<img src="media/hello-world-project-scaled.png"/>](https://github.com/hollyplankdev/hello-world-api-ts) | [<img src="media/motd-project-scaled.png"/>](https://github.com/hollyplankdev/motd-api-ts) |
 | A basic "Hello World" ExpressJS TypeScript backend project. | A web app using the MERN stack that shows you the most recently posted Message of the Day. |
 
 # Stuff I've Used and Like
